@@ -1,14 +1,19 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      MFP Starter - Ionic
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+  <div id="main">
+    <div id="main_title">Hello MobileFirst</div>
+    <div id="main_status"></div>
+    <div id="main_info"></div>
+  </div>
+    <div id="button_content">
+        <button id="ping_button" ion-button icon-left outline (click)="pingMFP()">Ping MobileFirst Server</button>
+    </div>
+  
 </ion-content>
