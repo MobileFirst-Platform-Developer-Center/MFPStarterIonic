@@ -1,6 +1,6 @@
 {
   "name": "MFPStarterIonic",
-  "app_id": "",
+  "app_id": "com.ibm.mfpstarterionic",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}

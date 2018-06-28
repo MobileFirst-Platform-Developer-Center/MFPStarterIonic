@@ -6,11 +6,10 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
   <div id="main">
-    <div id="main_title">Hello MobileFirst</div>
-    <div id="main_status"></div>
-    <div id="main_info"></div>
+    <div id="main_title">{{title}}</div>
+    <div id="main_status">{{status}}</div>
   </div>
     <div id="button_content">
         <button id="ping_button" ion-button icon-left outline (click)="pingMFP()">Ping MobileFirst Server</button>
