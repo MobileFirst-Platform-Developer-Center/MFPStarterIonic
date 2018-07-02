@@ -10,7 +10,7 @@ A sample Ionic application with MobileFirst Capability which does basic OAuth wi
  - `mfpdev app register` - to register the application.
  - `ionic cordova run` - to run the application.
 
-3. Run the application in an Android Rmulator, iOS Simulator, Browser or physical device. Press the **Ping MobileFirst Server** button to ping MobileFirst Server.
+3. Run the application in an Android Emulator, iOS Simulator, Browser or physical device. Press the **Ping MobileFirst Server** button to ping MobileFirst Server.
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 8.0
