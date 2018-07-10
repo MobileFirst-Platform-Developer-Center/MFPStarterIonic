@@ -1,7 +1,7 @@
 IBM MobileFirst Platform Foundation
 ===
 ## MFP Starter Ionic
-A sample Ionic application with MobileFirst Capability which does basic OAuth with MobileFirst Server.
+A sample Ionic application with MobileFirst Capability which does basic OAuth communication with MobileFirst Server.
 
 ### Usage
 
